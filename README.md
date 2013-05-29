@@ -1,5 +1,13 @@
 # Android App Template
 
+## Environment
+
+* OS: Ubuntu 12.04 amd64
+* JDK: Oracle JDK 1.6
+* Eclipse: Eclipse IDE for Java EE Developers (4.2 (Juno))
+* Apache Ant: 1.9.1
+* Android SDK: r20.0.3-linux
+
 ## How was this created
 
 1. Launch Eclipse
