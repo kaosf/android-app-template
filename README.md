@@ -33,3 +33,7 @@
         * Activity Name: MainActivity
         * Layout Name: activity_main
         * Navigation Type: None
+
+## Edit .gitignore
+
+Ignore `bin` and `gen` directories.
