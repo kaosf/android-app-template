@@ -37,3 +37,13 @@
 ## Edit .gitignore
 
 Ignore `bin` and `gen` directories.
+
+## Enable to build from command line
+
+Execute `android project update -p ./` and then ignore `local.properties`.
+
+Now you can build with `ant debug` or `ant release`.
+
+`android` command is `<android-sdk-path>/tools/android`.
+
+`ant` command is [Apache Ant](http://ant.apache.org/).
