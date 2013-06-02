@@ -44,7 +44,7 @@
 
 ## Edit .gitignore
 
-Ignore `bin` and `gen` directories.
+Ignore `.classpath`, `.project`, `.settings/`, `bin/` and `gen/`.
 
 ## Enable to build from command line
 
