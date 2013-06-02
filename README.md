@@ -46,6 +46,14 @@
 
 Ignore `.classpath`, `.project`, `.settings/`, `bin/` and `gen/`.
 
+```.gitignore
+.classpath
+.project
+.settings
+bin
+gen
+```
+
 ## Enable to build from command line
 
 Execute `android project update -p ./` and then ignore `local.properties`.
