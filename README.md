@@ -44,7 +44,7 @@
 
 ## Edit .gitignore
 
-Ignore `.classpath`, `.project`, `.settings/`, `bin/` and `gen/`.
+Ignore `.classpath`, `.project`, `.settings/`, `bin/`, `gen/` and `local.properties`.
 
 ```.gitignore
 .classpath
@@ -52,6 +52,7 @@ Ignore `.classpath`, `.project`, `.settings/`, `bin/` and `gen/`.
 .settings
 bin
 gen
+local.properties
 ```
 
 ## Enable to build from command line
