@@ -1,5 +1,7 @@
 # Android App Template
 
+Version 1.0.0
+
 ## Environment
 
 * OS: Ubuntu 12.04 amd64
