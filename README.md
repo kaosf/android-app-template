@@ -72,3 +72,9 @@ Now you can build with `ant debug` or `ant release`.
 `android` command is `<android-sdk-path>/tools/android`.
 
 `ant` command is [Apache Ant](http://ant.apache.org/).
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright 2013 ka
