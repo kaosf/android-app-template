@@ -5,10 +5,10 @@ Version 1.1.0
 ## Environment
 
 * OS: Ubuntu 12.04 amd64
-* JDK: Oracle JDK 1.6
-* Eclipse: Eclipse IDE for Java EE Developers (4.2 (Juno))
-* Apache Ant: 1.9.1
-* Android SDK: r20.0.3-linux
+* JDK: OpenJDK 1.7
+* Eclipse: Eclipse IDE for Java EE Developers (4.3 (Kepler))
+* Apache Ant: 1.9.2
+* Android SDK: r22.3-linux
 
 ## How was this created
 
@@ -20,8 +20,8 @@ Version 1.1.0
         * Project Name: android-app-template
         * Package Name: net.kaosfield.app
         * Minimum Required SDK: API8: Android 2.2
-        * Target SDK: API17: Android 4.2
-        * Compile With: API17: Android 4.2
+        * Target SDK: API18: Android 4.3
+        * Compile With: API19: Android 4.4
         * Theme: Holo Light
     2. Configure Project (all default)
         * Create custom launcher icon: checked
